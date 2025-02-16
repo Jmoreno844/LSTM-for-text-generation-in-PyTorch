@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook and a tokenizer configuration file (
 
 ## Contents
 
-- **gru_text_inference.ipynb**: The main notebook containing the code for data processing, model definition, training (with mixed precision), and evaluation.
+- **LSTM _neural_network.ipynb**: The main notebook containing the code for data processing, model definition, training (with mixed precision), and evaluation.
 - **tokenizer.json**: A JSON file with your tokenizer configuration or saved tokenizer data.
 - **README.md**: This file.
 
